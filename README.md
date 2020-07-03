@@ -1,6 +1,12 @@
 # Bureau_Wachtsysteem
  Github Voor de opdracht: bureau_wachtsysteem
 
+**Links** 
+
+- http://u531408.gluweb.nl/wachtsysteem/
+- http://u531408.gluweb.nl/wachtsysteem/admin.html
+- http://u531408.gluweb.nl/wachtsysteem/afstandbediening.html
+
 
 **Installatie**
 
