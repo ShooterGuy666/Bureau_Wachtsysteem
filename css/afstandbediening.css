@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.bg-glu-green{
+    background-color: #009b3b;
+}
+
+.bg-glu-blue{
+    background-color: #0187eb;
+}
+
+
+.font-32{
+    font-size: 32px;
+}
+
+.font-40{
+    font-size: 40px;
+}
+
+.vh-12-5{
+    height: 12.5vh;
+}
+
+.vh-25{
+    height: 25vh;
+}
+
+.vh-50{
+    height: 50vh;
+}
+
+.vh-75{
+    height: 75vh;
+}
+
+.vh-100{
+    height: 100vh;
+}
+
+.sidebar-height{
+    height: calc(100vh - 64px);
+}
+
+.main-dimensions{
+    height: calc(100vh - 64px);
+    width: calc(100vw - 263px);
+}
+
+.info-block{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 145px;
+}
+
+.rounded-30{
+    border-radius: 30px;
+}
+
+.v-center{
+    vertical-align: center;
+}
+
+.mt-50px{
+    margin-top: 5.668934240362812vh;
+}
+
+.ml-79px{
+    margin-left: 6.171875vw;
+}
+
+.mr-79px{
+    margin-right: 6.171875vw;
+}
+
